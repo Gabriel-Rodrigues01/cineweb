@@ -1,6 +1,6 @@
 # Cineflex 🎬
 
-Bem-vindo ao Cineflex, o sistema de gerenciamento de cinema mais caótico e divertido que você já viu! Se você achava que organizar sessões de filmes, vender ingressos e gerenciar salas era uma tarefa séria, pense de novo. Com o Cineflex, a gente leva a desorganização a um novo patamar de eficiência.
+Bem-vindo ao Cineflex, o sistema de gerenciamento de cinema mais caótico e divertido que você já viu! Se você achava que organizar sessões de filmes, vender ingressos e gerenciar salas era uma tarefa séria, pense de novo. Com o Cineflex, a gente leva a essa tarefaa um novo patamar de eficiência.
 
 ## O que raios é isso? 🤔
 
