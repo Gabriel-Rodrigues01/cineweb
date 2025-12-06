@@ -62,4 +62,4 @@ Se você encontrou um bug (o que é bem provável) ou tem uma ideia para deixar 
 
 ---
 
-Feito com ☕, 🍕 e muitas risadas por [seu nome]. Divirta-se!
+Feito com ☕, 🍕 e muitas risadas por Gabriel Rodrigues. Divirta-se!
