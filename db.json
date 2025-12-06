@@ -1,0 +1,57 @@
+{
+  "filmes": [
+    {
+      "id": "aaf0",
+      "titulo": "Duna",
+      "sinopse": "Uma jornada mítica e emocional sobre amadurecimento.",
+      "duracao": 155,
+      "classificacao": "18 anos",
+      "genero": "Ação",
+      "imagemUrl": "https://ingresso-a.akamaihd.net/prd/img/movie/duna-parte-2/3971d5d6-702d-40d8-b990-872d4ffe3e32.webp"
+    },
+    {
+      "id": "fa24",
+      "titulo": "Avatar",
+      "sinopse": "dgfhjlkm,ç.",
+      "duracao": 1555,
+      "classificacao": "12 anos",
+      "genero": "Ação",
+      "imagemUrl": "https://wallpapercave.com/wp/wp11484155.jpg"
+    }
+  ],
+  "salas": [
+    {
+      "id": "d9e3",
+      "numero": 1,
+      "capacidade": 50
+    }
+  ],
+  "sessoes": [
+    {
+      "id": "ef5b",
+      "filmeId": null,
+      "salaId": "d9e3",
+      "dataHora": "2025-12-10T15:30"
+    }
+  ],
+  "ingressos": [
+    {
+      "id": "9c29",
+      "sessaoId": "ef5b",
+      "tipo": "Meia",
+      "valor": 15
+    },
+    {
+      "id": "4e6a",
+      "sessaoId": "ef5b",
+      "tipo": "Inteira",
+      "valor": 30
+    },
+    {
+      "id": "820a",
+      "sessaoId": "ef5b",
+      "tipo": "Meia",
+      "valor": 15
+    }
+  ]
+}
